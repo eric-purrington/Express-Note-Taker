@@ -2,6 +2,7 @@ html, body {
     height: 100%;
     margin: 0;
     padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
   
   .save-note {
@@ -14,7 +15,7 @@ html, body {
     font-size: 1.5rem;
     cursor: pointer;
   }
-  
+
   .note-textarea, .note-title {
     color: #000000;
     width: 100%;
@@ -68,3 +69,33 @@ html, body {
     padding: 20px;
     cursor: pointer;
   }
+
+/* -------------My css changes-------------- */
+
+  .navbar-custom {
+    background-color: #775ada !important;
+    background-image: none;
+  }
+
+  .jumbotron {
+    /* background: #ace7ef; */
+    border-radius: 50px;
+  }
+
+  .getStarted {
+    background-color: #775ada !important;
+    border-radius: 20px;
+  }
+
+  .list-container i {
+    color: #28c7fa !important;
+  }
+
+  .list-container i:hover {
+    color: red !important;
+  }
+
+  .icons i:hover, .navbar-brand:hover {
+    color: #28c7fa !important;
+  }
+
