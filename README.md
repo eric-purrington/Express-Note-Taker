@@ -1,7 +1,7 @@
 # Express-Note-Taker
 An application capable of writing, saving, and deleting notes with the use of Express.
 
-[Deployed App]()                                            
+[Deployed App](https://note-taker-ep.herokuapp.com/)                                            
 ![Gif Demonstration](/demonstration/Express-Note-Taker.gif)
 
 ## Table of Contents 
@@ -17,7 +17,7 @@ An application capable of writing, saving, and deleting notes with the use of Ex
 
 ## Usage
 
-- Navigate to the [Note-Taker]() on Heroku.                                                                  
+- Navigate to the [Note-Taker](https://note-taker-ep.herokuapp.com/) on Heroku.                                                                  
 - Click get started.                                                                     
 - Start taking notes by filling in a title and the text.                                                                         
 - To save, click the save icon at the top right.                                                         
